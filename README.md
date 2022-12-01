@@ -1,4 +1,6 @@
-# SF-crime-analysis
+# SF-crime-analysis_with_Spark
+
+Tools: Apache Spark (Spark SQL, PySpark, MLlib), Python (Seaborn/matplotlib)
 
 Data and spatial analysis on a 15-year SFPD crime dataset of size ~551MB.
 
